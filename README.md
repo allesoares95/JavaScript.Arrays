@@ -4,9 +4,6 @@
     Esse curso de JavaScript Arrays sera focado no uso para back-end.
     Necessário a utilização do NodeJS;
 
-  # Introdução de Arrays;
-
-
   # Desafios
   1 - O primeiro desafio será calcular a média das notas de um estudante.
 
